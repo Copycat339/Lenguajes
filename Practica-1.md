@@ -16,6 +16,8 @@ Desde que era niño, me apasionaban los videojuegos. Sin embargo, no fue hasta l
 
 Mi sueño es dedicarme al desarrollo de juegos, especialmente de RPG, que son mi género favorito. Me encantaría formar parte de una empresa que se especialice en este tipo de juegos y, quizás algún día, crear mi propio estudio.
 
+hola mundo
+
 
 
 ---
